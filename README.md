@@ -1,6 +1,6 @@
 # Kelly: A Live Music Assistant over WhatsApp
 
-## [Talk to Kelly](https://wa.me/447520636366)
+## [Talk to Kelly](https://wa.me/447520636366) *(Alpha test)*
 
 The biggest problem for finding events for me is that there is so much advertising in between me and searching/browsing and ticket companies like gigantic have search but it is hard to use for planning. The standard search method assumes i am looking for an artist or tour, i cant search by date or region or genre, or other, more fuzzy terms.
 
